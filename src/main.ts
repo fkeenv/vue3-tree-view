@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './style.css'
+import './assets/style.css'
 import App from './App.vue'
 import { defineCustomElement } from 'vue';
 import TreeView from './components/TreeView.vue';
